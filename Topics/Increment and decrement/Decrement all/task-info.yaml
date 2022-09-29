@@ -1,0 +1,33 @@
+type: code
+files:
+- name: src/Main.java
+  visible: true
+  text: |-
+    import java.util.Scanner;
+
+    class Main {
+        public static void main(String[] args) {
+            Scanner scanner = new Scanner(System.in);
+            // put your code here
+        }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/5011#comment
+status: Failed
+feedback:
+  message: |
+    Failed test #1 of 3. Wrong answer
+
+    This is a sample test from the problem statement!
+
+    Test input:
+    10 11 -2 -3
+
+    Correct output:
+    9 10 -3 -4
+
+    Your code output:
+    9 10 -3 -4"hola
+    hola"
+  time: Tue, 06 Sep 2022 15:55:24 UTC
+record: -1
